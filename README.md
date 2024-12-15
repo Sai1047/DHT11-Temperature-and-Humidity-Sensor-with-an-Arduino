@@ -1,5 +1,8 @@
 ﻿# DHT11-Temperature-and-Humidity-Sensor-with-an-Arduino
+ 
 Report: DHT11 Temperature and Humidity Sensor with an Arduino
+
+
 Abstract
 The integration of the DHT11 sensor with an Arduino enables accurate measurement of environmental temperature and humidity. This project focuses on the use of the DHT11 sensor, which is widely recognized for its cost-effectiveness, low power consumption, and user-friendly interface. The primary goal is to monitor and display temperature and humidity values on a serial monitor, showcasing the sensor's capabilities in real-time data acquisition.
 
