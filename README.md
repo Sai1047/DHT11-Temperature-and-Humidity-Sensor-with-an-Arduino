@@ -4,14 +4,17 @@ Report: DHT11 Temperature and Humidity Sensor with an Arduino
 
 
 Abstract
+
 The integration of the DHT11 sensor with an Arduino enables accurate measurement of environmental temperature and humidity. This project focuses on the use of the DHT11 sensor, which is widely recognized for its cost-effectiveness, low power consumption, and user-friendly interface. The primary goal is to monitor and display temperature and humidity values on a serial monitor, showcasing the sensor's capabilities in real-time data acquisition.
 
 Objectives
+
 1.	To understand the working principles of the DHT11 sensor and its interfacing with an Arduino.
 2.	To acquire real-time temperature and humidity data and display it using the Arduino serial monitor.
 3.	To explore potential applications of temperature and humidity sensors in environmental monitoring systems.
 
 System Components
+
 The key hardware and software components for this project are:
 1.	Arduino Board: Serves as the central control unit to process sensor data.
 2.	DHT11 Sensor: A compact and affordable sensor for measuring temperature (in Celsius) and humidity (as a percentage).
@@ -19,6 +22,7 @@ The key hardware and software components for this project are:
 4.	Arduino IDE: Software environment for writing and uploading the program code.
 
 Methodology
+
 1.	Sensor and Arduino Interfacing:
 o	The DHT11 sensor has three essential pins: VCC, GND, and DATA.
 o	The VCC and GND pins are connected to the 5V and GND pins on the Arduino, respectively.
@@ -81,15 +85,18 @@ Output with TInkercad:
 
 
 Results
+
 •	Accuracy: The DHT11 sensor provides a precision of ±2% for humidity and ±0.5°C for temperature.
 •	Real-time Data: Temperature and humidity values are updated every two seconds, demonstrating real-time monitoring.
 •	Ease of Use: The Arduino IDE and DHT library simplify the implementation process, making it beginner-friendly.
 
 Applications
+
 1.	Environmental Monitoring: Monitoring weather conditions in agricultural and industrial applications.
 2.	Home Automation: Integrating with smart systems to control HVAC systems.
 3.	Health Devices: Maintaining optimal conditions for sensitive environments, such as laboratories.
 
 Conclusion
+
 The DHT11 sensor, in combination with Arduino, provides a reliable and efficient way to measure temperature and humidity. The project demonstrates the sensor’s practicality in various real-world applications, highlighting its importance in environmental and automation systems.
 
